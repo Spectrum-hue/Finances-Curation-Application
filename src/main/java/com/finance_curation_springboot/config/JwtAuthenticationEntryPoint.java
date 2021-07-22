@@ -5,6 +5,7 @@ package com.finance_curation_springboot.config;
 //https://www.javainuse.com/spring/ang7-crud
 //https://github.com/zsra/sas
 //https://github.com/SelimHorri/project-tracking-system
+//https://dzone.com/articles/integrating-spring-boot-and-react-with-spring-secu-1
 import java.io.IOException;
 import java.io.Serializable;
 
